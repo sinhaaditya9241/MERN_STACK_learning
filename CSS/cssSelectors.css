@@ -1,0 +1,65 @@
+/* selectorTypes{
+
+} */
+
+/* 1. element selector */
+/* p{
+    color:red;
+    font-size: 20px;
+}
+
+h2{
+    color: green;
+    font-size: 36px;
+    text-align: center;
+}
+
+h1{
+    color: purple;
+    font-size: 48px;
+    text-align: center;
+} */
+
+
+/* id selector */
+/* #pId{
+    color: blue;
+    font-size: 18px;
+    text-align: justify;
+}
+
+#pElement{
+    color: red;
+    font-size: 20px;
+    text-align: justify;
+} */
+
+/*  class selector */
+/* .pClass{
+    color: orange;
+    font-size: 22px;
+    text-align: justify;
+}
+.h2Class{
+    color: brown;
+    font-size: 32px;
+    text-align: center;
+    background-color: lightsteelblue;
+} */
+
+
+
+
+/* specificity order  */
+/* 1. inline style
+2. id selector
+3. class selector
+4. element selector */
+
+
+*{
+    font-family: 'courier new', monospace;
+    margin: 0;
+    padding: 0;
+}
+
